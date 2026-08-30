@@ -1,5 +1,5 @@
 # MCP Server dependencies
-mcp>=1.23.0
+mcp>=1.28.1
 
 # CLI tool dependencies (shared)
 requests>=2.33.0
